@@ -1,0 +1,14 @@
+{
+  "mision": {
+    "texto": "Nuestra misión en FishFood es ofrecer productos de pescado saludables, deliciosos y accesibles para todos, innovando en opciones nutritivas para una alimentación equilibrada.",
+    "imagen": "/img/mision.svg"
+  },
+  "vision": {
+    "texto": "Ser líderes del mercado en Perú en productos preformados de pescado, reconocidos por calidad, sostenibilidad y promover una alimentación saludable.",
+    "imagen": "/img/vision.svg"
+  },
+  "valores": {
+    "texto": "Valores: mercado en Perú en productos preformados de pescado, reconocidos por calidad, sostenibilidad y promover una alimentación saludable.",
+    "imagen": "/img/vision.svg"
+  }
+}

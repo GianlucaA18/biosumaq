@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "nombre": "María R. – Cliente regular",
+    "testimonio": "\"Desde que descubrí los productos de Fishfood, mis comidas han cambiado por completo. Son fáciles de preparar y siempre frescos. Me encanta que además de ser saludables, tienen un sabor increíble. ¡Totalmente recomendados!\"",
+    "avatar": "/img/cafe.jpg"
+  },
+  {
+    "id": 2,
+    "nombre": "Carlos S. – Chef de restaurante local",
+    "testimonio": "\"Como chef, siempre busco ingredientes de alta calidad, y los productos de Fishfood son perfectos para mis platillos. La frescura y el sabor del pescado se mantienen en cada presentación, lo que me permite ofrecer comidas deliciosas y nutritivas a mis clientes.\"",
+    "avatar": "/img/cafe.jpg"
+  },
+  {
+    "id": 3,
+    "nombre": "Lucía G. – Ama de casa",
+    "testimonio": "\"Fishfood ha sido una solución práctica para mis almuerzos diarios. Mis hijos adoran sus nuggets de pescado, y me siento tranquila sabiendo que les estoy dando algo sano y nutritivo. ¡No puedo pedir más!\"",
+    "avatar": "/img/cafe.jpg"
+  }
+]

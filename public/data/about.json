@@ -1,0 +1,13 @@
+{
+  "quienesSomos": {
+    "texto": "FishFood es una marca de alimentos proveniente de Tacna y sus productos son hechos a base de perico fortificado con quinua y kiwicha, los cuales con sus valores nutricionales aportan a la lucha contra la desnutrición y anemia de los niños"
+  },
+  "seccion1": {
+    "texto": "En Fishfood, la calidad es clave. Seleccionamos el mejor pescado y cuidamos cada etapa de producción. Nuestros productos, libres de conservantes artificiales y hechos con ingredientes naturales, pasan por rigurosas pruebas para garantizar sabor y frescura.",
+    "imagen": "/img/mision.svg"
+  },
+  "seccion2": {
+    "texto": "En Fishfood, protegemos el planeta mientras disfrutamos de sus frutos. Usamos prácticas sostenibles, trabajamos con proveedores responsables y utilizamos empaques reciclables. Ofrecemos productos deliciosos y respetuosos con el medio ambiente.",
+    "imagen": "/img/vision.svg"
+  }
+}
